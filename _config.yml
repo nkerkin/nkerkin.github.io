@@ -7,7 +7,7 @@
 
 # Dependencies
 markdown:         redcarpet
-highlighter:      pygments
+highlighter:      rouge
 
 # Permalinks
 #permalink:        pretty
@@ -19,7 +19,7 @@ email: n@kerk.in
 description: > # this means to ignore newlines until "baseurl:"
   Site desc
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+url: "http://blog.kerk.in" # the base hostname & protocol for your site
 twitter_username: nkerkin
 github_username:  nkerkin
 
