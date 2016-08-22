@@ -35,6 +35,6 @@ version:  1.0.0
 # github:
 #   repo: nkerkin/nkerkin.github.io
 
-repository: nkerkin/nkerkin.github.io
+#repository: nkerkin/nkerkin.github.io
 
 encoding: utf-8

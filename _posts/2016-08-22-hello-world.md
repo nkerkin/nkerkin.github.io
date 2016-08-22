@@ -1,6 +1,7 @@
 ---
 layout: post
-title: Introducing Hyde
+title: Hello
+comments: true
 ---
 
-A new post
+A new post..
