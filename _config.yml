@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Dependencies
-markdown:         redcarpet
+markdown:         kramdown
 highlighter:      rouge
 
 # Permalinks
@@ -14,28 +14,27 @@ highlighter:      rouge
 #relative_permalinks: true
 
 # Site settings
-title: Your awesome title
+title: Stuff and That
 email: n@kerk.in
 description: > # this means to ignore newlines until "baseurl:"
-  Site desc
+  A collection of thoughts
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://blog.kerk.in" # the base hostname & protocol for your site
 twitter_username: nkerkin
 github_username:  nkerkin
 
-# Build settings
-markdown: kramdown
-
 author:
-  name:           'Neil Kerkin'
-  url:            https://twitter.com/nkerkin
+  name: 'Neil Kerkin'
+  url:  https://twitter.com/nkerkin
 
 paginate:         5
 
 # Custom vars
-version:          2.1.0
+version:  1.0.0
 
-#github:
-#  repo:           https://github.com/nkerkin/nkerkin.github.io
+# github:
+#   repo: nkerkin/nkerkin.github.io
+
+repository: nkerkin/nkerkin.github.io
 
 encoding: utf-8
